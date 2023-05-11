@@ -1,0 +1,35 @@
+.container {
+
+  
+   background-color: chocolate;
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   border: 1px solid rgb(201, 201, 207);
+  
+    
+  
+}
+
+.button {
+
+    background-color:rgb(223, 233, 91);
+    border-radius: 10%;
+    padding: 10px ;
+    cursor: pointer;
+    text-align: center;
+    margin: 5 cm;
+    font-size: 100%;
+    font-weight:1000;
+  
+}
+
+.foto {
+     
+   
+    border-color: black;
+    width: 15vw;
+    height: 20 hw;
+    border: 2px solid rgb(13, 13, 15);
+    
+}
